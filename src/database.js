@@ -1,6 +1,8 @@
 import mongoose from "mongoose"
 import { MONGODB_URI, MONGODB_URI_ATLAS } from "./config"
 
+console.log(MONGODB_URI)
+
 //
 ;(async () => {
   try {
