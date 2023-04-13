@@ -1,0 +1,4 @@
+// Babel traduce código nuevo, EJ: import y async/await con nodejs, a código viejo con require
+{
+  "presets": ["@babel/preset-env"]
+}
